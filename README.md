@@ -1,3 +1,7 @@
 # test
 learn the git
-gaobo1
+<<<<<<< HEAD
+gaobo
+=======
+gaobo
+>>>>>>> feature1
